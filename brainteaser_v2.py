@@ -7,7 +7,7 @@ VERSION 2 (takes 0.74 miliseconds)
 
 '''
 
-# the function is_prime() uses math.sqrt()
+# get_prime_factors() requires math.sqrt()
 import math
 
 # timing my script
